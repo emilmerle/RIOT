@@ -7,8 +7,8 @@ previous release.
 
 If a security issue is discovered, please report it to security@riot-os.org.
 A response will be provided within one week.
-The issue will be tracked in the mailing list.
-The original reporter will be included in the issue.
+The issue will be tracked in the [security mailing list](security@riot-os.org).
+The original reporter will be included in the discussion of the issue.
 
 ## Notification of a Vulnerability
 
